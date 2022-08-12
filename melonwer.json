@@ -1,6 +1,6 @@
 {
   "name": "melonwer",
-  "description": "version with blur",
+  "description": "NSFW For someone",
   "version": "1.1",
   "authors": [
     {
@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/872492380165640224/1007760322427371560/SIX_1D316629-0F6D-4570-A5C7-8863E290051A.png",
+    "url": "https://media.discordapp.net/attachments/969318266256367696/1007763134804664392/SIX_A7F084E8-B92B-4C9C-A099-0D4A29F529A6.png",
     "alpha": 1.0
   }
 }
