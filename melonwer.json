@@ -10,12 +10,12 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#d9b1cf",
+      "#ff0303",
       "#060607"
     ],
     "HEADER_SECONDARY": [
       "#9ba1b2",
-      "#4f5660"
+      "#252c36"
     ],
     "TEXT_NORMAL": [
       "#FBFBFB",
