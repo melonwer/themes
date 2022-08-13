@@ -1,0 +1,157 @@
+{
+  "name": "ni$$a",
+  "description": "good theme with black human",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "melonwer",
+      "id": "848518188195250176"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#d9b1cf",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#9ba1b2",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#d9b1cf",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#c8c8c8",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#697eab",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#3c3d51",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#323349",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#3c3d51",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#2d2e42",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#7a99c8",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#3c3d51",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#3c3d51",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#3c3d51",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#323349",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#9ba1b2",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#7a99c8",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#323348",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_400": "#bebee3",
+    "PRIMARY_DARK_500": "#697eab",
+    "PRIMARY_DARK_600": "#323348",
+    "PRIMARY_DARK_630": "#3c3d51",
+    "PRIMARY_DARK_700": "#323348",
+    "PRIMARY_DARK_800": "#363749",
+    "BRAND_NEW": "#7a99c8",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#87a2de"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#323349"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://media.discordapp.net/attachments/872492380165640224/1007968496631681024/SIX_3E57023B-6F92-444B-BC3F-A641DDAAB01D.png",
+    "alpha": 1.0
+  }
+}
