@@ -152,7 +152,7 @@
     "CHAT_GREY": "#171717"
   },
   "background": {
-    "blur": 20,
+    "blur": 0.1,
     "url": "https://media.discordapp.net/attachments/872492380165640224/1008426017863508119/SIX_721454A3-91CE-4379-B244-FC7E141E923E.png",
     "alpha": 1.0
   }
