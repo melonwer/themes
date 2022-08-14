@@ -90,11 +90,11 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#171717",
-      "#FFFFFF"
+      "#542ca3",
+      "#542ca3"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#171717",
+      "#542ca3",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
