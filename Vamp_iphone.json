@@ -90,11 +90,11 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#331212",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#331212",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
@@ -122,7 +122,7 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#6b0210",
+      "#d62515",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
