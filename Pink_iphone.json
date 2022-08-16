@@ -31,7 +31,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#fa41f7",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -39,7 +39,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#bc15d6",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
